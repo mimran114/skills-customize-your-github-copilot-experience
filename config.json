@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "pet-shelter-simulator",
+      "title": "Pet Shelter Simulator",
+      "description": "Practice object-oriented design by building a pet shelter simulator with classes, inheritance, and object interaction.",
+      "path": "assignments/pet-shelter-simulator",
+      "dueDate": "2026-08-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
