@@ -31,7 +31,7 @@ Completed program should:
 
 - Ask the user to enter two numbers.
 - Add the numbers together.
-- Print the result. Example:
+- Print the sum. Example:
   Enter the first number: 3
   Enter the second number: 7
   10
@@ -39,13 +39,13 @@ Completed program should:
 ### 🛠️ Conditional Statements
 
 #### Description
-Write a function called `is_even()` that checks if a number is even.
+Write a function called `is_even()` that checks whether a number is even.
 
 #### Requirements
 Completed program should:
 
 - Take a single integer argument.
-- Return `True` if the number is even, and `False` if it is odd.
+- Return `True` if the number is even and `False` if it is odd.
 - Example usage:
   ```python
   print(is_even(4))  # True
